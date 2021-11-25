@@ -18,4 +18,4 @@ function getRelatedEmployees(managerId) {
 
 module.exports = { isManager, getRelatedEmployees };
 
-// Jonatas Lima - Turma 17 e Willian Alves - Turma 17
+// Me auxiliaram com a lógica: Jonatas Lima - Turma 17 e Willian Alves - Turma 17
