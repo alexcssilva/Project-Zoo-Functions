@@ -1,5 +1,5 @@
-const { employees } = require("../data/zoo_data");
-const data = require("../data/zoo_data");
+const { employees } = require('../data/zoo_data');
+const data = require('../data/zoo_data');
 
 function isManager(id) {
   return employees.some((manager) => manager.managers.includes(id));
