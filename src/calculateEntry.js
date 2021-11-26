@@ -17,7 +17,7 @@ function countEntrants(entrants) {
     child,
     adult,
     senior,
-};
+  };
 }
 
 function calculateEntry(entrants) {
