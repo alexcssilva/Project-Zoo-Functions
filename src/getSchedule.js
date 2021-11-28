@@ -56,3 +56,5 @@ function getSchedule(scheduleTarget) {
 }
 
 module.exports = getSchedule;
+
+// Auxiliado por Jonatas Lima - Turma 17
